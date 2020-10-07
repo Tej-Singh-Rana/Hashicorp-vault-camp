@@ -1,5 +1,6 @@
 # Hashicorp-vault-camp
 ----
+**Download Link** - [Hashicorp Vault](https://www.vaultproject.io/downloads)
 
 **Hashicorp Vault Camp Learning Path**
 1. [Hashicorp Vault Study Guide](https://learn.hashicorp.com/collections/vault/getting-started)
