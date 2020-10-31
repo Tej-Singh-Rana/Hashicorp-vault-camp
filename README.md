@@ -10,3 +10,4 @@
 5. [Hashicorp Forum](https://discuss.hashicorp.com/)
 6. [Hashicorp Blog](https://www.hashicorp.com/blog/)
 7. [Hashicorp Interactive Tutorials](https://www.hashicorp.com/blog/hashicorp-tutorials-hashiconf-digital-2020/)
+8. [Hashicorp Vault Workshop](https://hashicorp.github.io/field-workshops-vault/)
